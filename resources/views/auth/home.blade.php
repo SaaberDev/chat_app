@@ -29,9 +29,9 @@
                 <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                     @livewire('multi-input')
                 </div>
-{{--                <div class="tab-pane fade show active" id="pills-test" role="tabpanel" aria-labelledby="pills-test-tab">--}}
-{{--                    GIT TEST--}}
-{{--                </div>--}}
+                <div class="tab-pane fade show active" id="pills-test" role="tabpanel" aria-labelledby="pills-test-tab">
+                    GIT TEST
+                </div>
                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                     @livewire('live-search-bar')
                 </div>
